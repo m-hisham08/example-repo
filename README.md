@@ -33,6 +33,9 @@ int main()
 
 ---
 
-[title](www.example.com)
+[Link](www.example.com)
 
-![alt text](image.jpg)
+![Image of a flower](image.jpg)
+
+
+*This change was made in a branch!*
